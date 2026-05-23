@@ -1,2 +1,2 @@
 # 3d-object-stuff
-3D models of stuff I own in a single repo for reference
+3D models/descriptions of stuff I own in a single repo for reference
