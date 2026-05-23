@@ -5,4 +5,4 @@
 - DVD/Standard Game: 14x135x190 mm
 ## Nintendo
 - NDS (EUR): 20x135x122 mm
-- NDS/3DS (USA/JP): 15x135x122 mm
+- NDS(USA/JP)/3DS(all): 15x135x122 mm
