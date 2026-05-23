@@ -1,4 +1,4 @@
-# Game Case Dimensions (rough siyes, not 100% accurate)
+# Game Case Dimensions (rough sizes, not 100% accurate)
 
 ## Standard
 - CD: 10x142x125 mm or 10.5x142x125 mm
